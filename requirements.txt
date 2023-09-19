@@ -1,0 +1,9 @@
+main.py - FastAPI app for Render
+bot.py - Telegram Bot object and handler registration
+bot_handlers.py - Bot event handlers
+instagram.py - Instagram API integration
+database.py - MongoDB interactions
+utils.py - Utility functions
+requirements.txt
+Dockerfile
+render.yaml
